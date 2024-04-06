@@ -1,3 +1,3 @@
-# Innovacerinterview
+# Innovaccerinterview
 
-This Project is built to solve problem statement of Innovacer's Interview Assignment
+This Project is built to solve the problem statement of Innovaccer's Interview Assignment
